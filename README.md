@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bobth97
 - 👀 I’m interested in Games
-- 🌱 I’m currently learning programmin
+- 🌱 I’m currently learning Developement web pages
 - 💞️ I’m looking to collaborate on web pages
 - 📫 How to reach me instagram toca do maromba
 
